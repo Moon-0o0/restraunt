@@ -1,0 +1,57 @@
+H2 {
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: fixed top;
+}
+
+hr {
+    color:white;
+    position: fixed top;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    
+    
+}
+Menu {
+    position: fixed top left;
+    color: white;
+}
+
+H5 {
+    color: orange;
+}
+
+p {
+    color:orange;
+    text-align: center;
+    display: inline;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h4 {
+    color: orange;
+    text-align: center;
+}
+
+img {
+    position: fixed bottom left;
+    margin-top: 0px;
+    display: inline;
+}
+
+button {
+    width: 55px;
+    height: 25px;
+    background-color: orange;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
